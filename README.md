@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [pdf webapp](https://github.com/abhiigowdaa/pdf_summarizer_web)
 
-- 🌱 I’m currently learning **building unique websites and other building tools**
+- 🌱 I’m currently learning **to build unique websites and other building tools**
 
 - 💬 Ask me about **python**
 
