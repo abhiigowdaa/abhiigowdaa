@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Abhishek R</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on [pdf webapp](https://github.com/abhiigowdaa/pdf_summarizer_web)
+- 🔭 I’m currently working on [Grow my Therapy](https://github.com/abhiigowdaa/pdf_summarizer_web)
 
 - 🌱 I’m currently learning **to build unique websites and other building tools**
 
-- 💬 Ask me about **python**
+- 💬 Ask me about **java**
 
 - 📫 How to reach me **abhishekrgowda12@gmail.com**
 
