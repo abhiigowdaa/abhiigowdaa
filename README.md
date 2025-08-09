@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhishek R</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on [Grow my Therapy](https://github.com/abhiigowdaa/Uber-Eats-Clone)
+- 🔭 I’m currently working on [Uber Eats Clone](https://github.com/abhiigowdaa/Uber-Eats-Clone)
 
 - 🌱 I’m currently learning **to build unique websites and other building tools**
 
